@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
