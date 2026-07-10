@@ -6,7 +6,7 @@ class Solution {
        reverseNums(i,n-1,nums);
        reverseNums(i,k-1,nums);
        reverseNums(k,n-1,nums);
-
+       
     }
 
     void reverseNums(int start, int end,int[] nums){ 
