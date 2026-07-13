@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0189-rotate-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
