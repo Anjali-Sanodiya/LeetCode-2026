@@ -4,11 +4,9 @@ class Solution {
         int m=2*n;
         int[] ans= new int[m];
     for(int i=0;i<n;i++){
-        for(int j=i+n;j<m;j++){
             ans[i]=nums[i];
-            ans[j]=nums[i];
+            ans[i+n]=nums[i];
         }
-    }
         return ans;
     }
 }
