@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Prefix Sum
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0704-binary-search) |
