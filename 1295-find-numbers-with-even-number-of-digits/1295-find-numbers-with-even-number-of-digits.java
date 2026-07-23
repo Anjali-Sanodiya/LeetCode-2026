@@ -1,22 +1,20 @@
 class Solution {
-    public boolean countDigit(int num){
-        int count=0;
-        while(num>0){
-            count++;
-            num/=10;
-        }
-        if(count%2==0){
-            return true;
-        }
-        return false;
-    }
     public int findNumbers(int[] nums) {
-        int evenCount=0;
-        for(int num: nums){
-           if(countDigit(num)){
-            evenCount++;
-           }
-        }  
-        return evenCount;
+        int n= nums.length;
+        int count=0;
+        int digit=0;
+        int countEven=0; 
+        for(int i=0;i<n;i++){
+            digit=nums[i];
+            while(digit>0){
+            digit/=10;
+            count++;
+            }
+            if(count%2==0){
+                countEven++;
+            }
+            count=0;
+        }
+       return countEven;
     }
 }
