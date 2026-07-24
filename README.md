@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0540-single-element-in-a-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
