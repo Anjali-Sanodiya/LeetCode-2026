@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0628-maximum-product-of-three-numbers) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0905-sort-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3536-maximum-product-of-two-digits) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3536-maximum-product-of-two-digits) |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0704-binary-search) |
 ## Simulation
@@ -98,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
