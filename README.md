@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
