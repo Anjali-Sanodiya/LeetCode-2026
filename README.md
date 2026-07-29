@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0628-maximum-product-of-three-numbers) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
