@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## String
