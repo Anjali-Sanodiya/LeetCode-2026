@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0344-reverse-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
