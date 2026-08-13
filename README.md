@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
@@ -138,6 +140,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
