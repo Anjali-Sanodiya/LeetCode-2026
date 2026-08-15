@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1929-concatenation-of-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
