@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1929-concatenation-of-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
