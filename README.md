@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1927-sum-game) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1927-sum-game](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1927-sum-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Prefix Sum
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1927-sum-game](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1927-sum-game) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Queue
 |  |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
