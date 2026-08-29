@@ -1,19 +1,20 @@
 class NumArray {
     int nums[];
+    int prefix[];
     public NumArray(int[] nums) {
         this.nums=nums;
-        
-    }
-    
-    public int sumRange(int left, int right) {
-        int n= this.nums.length;
+        prefix= nums;
+        int n= prefix.length;
         int preSum=0;
-        int[] prefix= new int[n];
         prefix[0]=nums[0];
         for(int i=1;i<n;i++){                              //   this loop calulate the prefix sum 
             preSum=nums[i]+prefix[i-1];
             prefix[i]=preSum;
         }
+        
+    }
+    
+    public int sumRange(int left, int right) {
 
         if(left==0){                                    // these conditions check and return the prefix sum
             return prefix[right];
