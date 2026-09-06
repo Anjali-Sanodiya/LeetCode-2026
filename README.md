@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1929-concatenation-of-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
