@@ -6,6 +6,10 @@ class Solution {
         int s[]= new int[n];
     
         if (n <= 1) return 0;         //This condition checks if the n is greater than or equal to 1 if it is true then return 0
+
+
+        // Always remember one thing if you use the seperate loops they runs one by one. for example here the first loop run and assign the all values in p[] after that the 2nd loop runs and assign the values in s[]
+        
         
         p[0]=nums[0];                          // This condition assign the value of nums[0] to p[0]
         for(int i=1;i<n;i++){                 // This loop assign values to the   p[] = [5,5,5,5]
