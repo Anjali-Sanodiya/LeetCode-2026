@@ -215,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
