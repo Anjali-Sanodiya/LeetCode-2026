@@ -21,6 +21,6 @@ class Solution {
                 curr= curr.next;
             }
         }
-        return dummy.next;
+        return dummy.next;                      // tc= O(n)  sc=O(1)
     }
 }
