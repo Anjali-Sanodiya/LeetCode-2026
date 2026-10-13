@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1927-sum-game) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
