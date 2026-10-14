@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1927-sum-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1927-sum-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3871-count-commas-in-range-ii) |
 ## Prefix Sum
