@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0739-daily-temperatures) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
