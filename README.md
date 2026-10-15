@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3903-smallest-stable-index-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
@@ -290,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0739-daily-temperatures) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
