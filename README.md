@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0048-rotate-image) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0162-find-peak-element) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0739-daily-temperatures) |
 ## Floyd's Cycle Finding Algorithm
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0739-daily-temperatures) |
 ## Binary Indexed Tree
 |  |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
