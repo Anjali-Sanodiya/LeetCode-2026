@@ -310,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0084-largest-rectangle-in-histogram) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
