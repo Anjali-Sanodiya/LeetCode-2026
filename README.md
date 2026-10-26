@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1672-richest-customer-wealth](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1929-concatenation-of-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
