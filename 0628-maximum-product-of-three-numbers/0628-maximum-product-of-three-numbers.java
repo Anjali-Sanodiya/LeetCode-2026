@@ -1,10 +1,30 @@
 class Solution {
     public int maximumProduct(int[] nums) {
-        int n= nums.length;
-        Arrays.sort(nums);
-        int p1= nums[0]*nums[1]*nums[n-1];
-        int p2 = nums[n-1]*nums[n-2]*nums[n-3];
-        int ans= Math.max(p1,p2);
-        return ans;
+        int f = Integer.MIN_VALUE, s = Integer.MIN_VALUE, t = Integer.MIN_VALUE;
+        int min1 = Integer.MAX_VALUE, min2 = Integer.MAX_VALUE;
+        
+        for (int num : nums) {
+            // Track top 3 largest numbers (using >= to allow duplicates)
+            if (num >= f) {
+                t = s;
+                s = f;
+                f = num;
+            } else if (num >= s) {
+                t = s;
+                s = num;
+            } else if (num >= t) {
+                t = num;
+            }
+            
+            // Track 2 smallest numbers for negative pairs
+            if (num <= min1) {
+                min2 = min1;
+                min1 = num;
+            } else if (num <= min2) {
+                min2 = num;
+            }
+        }
+        
+        return Math.max(f * s * t, min1 * min2 * f);
     }
 }
