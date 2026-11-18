@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1927-sum-game) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Queue
 |  |
 | ------- |
