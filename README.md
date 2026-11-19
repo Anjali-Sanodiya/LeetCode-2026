@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1929-concatenation-of-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/1927-sum-game) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anjali-Sanodiya/LeetCode-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
